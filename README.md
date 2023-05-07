@@ -1,1 +1,15 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/p87-J-Jp)
+# CMS
+
+## Невероятно долго мучился
+
+По большей части всё время ушло на спринг бут, я на него без шуток убил несколько часов.
+Переоценил свои силы, поэтому не успел некоторые вещи. Понятно, как 
+убрать хардкод ссылок, понятно, как работать с csrf, но не успел. Рабочая версия
+CMS - в 10 домашке.
+
+Еще удаление забыл, а в конце уже не успел.
+
+По сути у меня и так всё было готово, и я думал, что связать будет быстро. Оказалось, что нет
+
+![example_api.png](files%2Fexample_api.png)
+![example_pebble.png](files%2Fexample_pebble.png)
